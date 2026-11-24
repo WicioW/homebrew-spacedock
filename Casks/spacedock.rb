@@ -1,6 +1,6 @@
 cask "spacedock" do
-  version "0.1.2"
-  sha256 "63bdb77ef67affade507bb7b2df53b558ce5d55b59996f0c0bde22bfc85a3bbd"
+  version "0.2.0"
+  sha256 "1abb79a6650ebc2d96cc38f31d2f40e13b8a94ed544ea204269031067d3b1ccb"
 
   url "https://github.com/WicioW/SpaceDock/releases/download/v#{version}/SpaceDock-#{version}.dmg"
   name "SpaceDock"
